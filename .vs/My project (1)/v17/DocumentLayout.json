@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\game\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\game\\my project (1)\\assets\\ready\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\ready\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\game\\My project (1)\\assets\\ready\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\ready\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\game\\my project (1)\\assets\\ready\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\ready\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\game\\my project (1)\\assets\\ready\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\ready\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\game\\my project (1)\\assets\\ready\\scripts\\missionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\ready\\scripts\\missionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\game\\My project (1)\\assets\\ready\\scripts\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\ready\\scripts\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Ready\\Scripts\\Menu.cs",
+              "ToolTip": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Ready\\Scripts\\Menu.cs",
+              "ViewState": "AQIAAAAAAABANDMzMzMNwA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:07:01.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Ready\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Ready\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T23:31:54.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MissionBase.cs",
+              "DocumentMoniker": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\MissionBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Ready\\Scripts\\MissionBase.cs",
+              "ToolTip": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\MissionBase.cs",
+              "RelativeToolTip": "Assets\\Ready\\Scripts\\MissionBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T23:02:29.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Ready\\Scripts\\Player.cs",
+              "ToolTip": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Ready\\Scripts\\Player.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:00:15.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Ready\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Ready\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:55:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Track.cs",
+              "DocumentMoniker": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\Track.cs",
+              "RelativeDocumentMoniker": "Assets\\Ready\\Scripts\\Track.cs",
+              "ToolTip": "D:\\game\\My project (1)\\Assets\\Ready\\Scripts\\Track.cs",
+              "RelativeToolTip": "Assets\\Ready\\Scripts\\Track.cs",
+              "ViewState": "AQIAAC8AAADAAQAAAEAuwD0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:11:04.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
